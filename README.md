@@ -9,5 +9,5 @@ https://www.youtube.com/playlist?list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR<br>
 Official Page<br>
 https://tailwindcss.com/ <br>
 
-Instalation using CLI
+Instalation using CLI<br>
 https://tailwindcss.com/docs/installation
