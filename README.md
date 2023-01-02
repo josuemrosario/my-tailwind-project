@@ -4,7 +4,7 @@ Objectives<br>
 Learn tailwind from "Designing with Tailwind CSS" playlist from Adam Wathan<br>
 
 Playlist<br>
-https://www.youtube.com/playlist?list=PL7CcGwsqRpSM3w9BT_21tUU8JN2SnyckR<br>
+https://v1.tailwindcss.com/course<br>
 
 Official Page<br>
 https://tailwindcss.com/ <br>
